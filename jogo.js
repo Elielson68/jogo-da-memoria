@@ -42,7 +42,7 @@ function afterReveal() {
             }
         }
         reveals.length = 0;
-        }, 100);
+        }, 300);
     }
 
     if (revealCount === imgs.length) {
